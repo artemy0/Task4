@@ -1,0 +1,7 @@
+D:\IBA\Task4\Task4\Task4\bin\Debug\Task4.exe.config
+D:\IBA\Task4\Task4\Task4\bin\Debug\Task4.exe
+D:\IBA\Task4\Task4\Task4\bin\Debug\Task4.pdb
+D:\IBA\Task4\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\IBA\Task4\Task4\Task4\obj\Debug\Task4.exe
+D:\IBA\Task4\Task4\Task4\obj\Debug\Task4.pdb
+D:\IBA\Task4\Task4\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
